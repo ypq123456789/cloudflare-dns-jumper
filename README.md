@@ -18,7 +18,7 @@
 
 ## 📸 效果预览
 
-![效果预览](https://cdn.nodeimage.com/i/1UK5lEzQMkUxfu1lMrZFNI0U4vC7ez08.webp) 
+![效果预览](https://cdn.nodeimage.com/i/h4nWQZYPMV1nhfHRYjjjyndkC23KVHCE.webp)
 
 
 ## 💡 使用说明
