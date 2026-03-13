@@ -13,7 +13,7 @@
 
 1.  **安装脚本管理器**：确保你的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展。
 2.  **安装本脚本**：
-    * 方式一：点击此链接直接安装(https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-junmper/main/cloudflare-dns-jumper.user.js)。
+    * 方式一：点击此链接直接安装(https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-junmper/main/cloudflare-dns-jumper.user.js)
     * 方式二：复制本仓库中 `script.js` 的代码，在 Tampermonkey 面板中新建脚本并粘贴保存。
 
 ## 📸 效果预览
