@@ -1,13 +1,13 @@
 // ==UserScript==
-// @updateURL    https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-junmper/main/cloudflare-dns-jumper.user.js
-// @downloadURL  https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-junmper/main/cloudflare-dns-jumper.user.js
 // @name         Cloudflare DNS 直达跳转按钮 V3 终极版
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  智能识别列位置，强行突破隐藏样式，添加跳转按钮
-// @author       Gemini
+// @author       ypq123456789
 // @match        https://dash.cloudflare.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
+// @updateURL    https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-jumper/main/cloudflare-dns-jumper.user.js
+// @downloadURL  https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-jumper/main/cloudflare-dns-jumper.user.js
 // @grant        none
 // ==/UserScript==
 
