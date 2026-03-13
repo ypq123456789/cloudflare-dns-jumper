@@ -1,4 +1,6 @@
 // ==UserScript==
+// @updateURL    https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-junmper/main/cloudflare-dns-jumper.user.js
+// @downloadURL  https://raw.githubusercontent.com/ypq123456789/cloudflare-dns-junmper/main/cloudflare-dns-jumper.user.js
 // @name         Cloudflare DNS 直达跳转按钮 V3 终极版
 // @namespace    http://tampermonkey.net/
 // @version      3.0
